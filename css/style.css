@@ -18,7 +18,7 @@ font-weight:bold;
 }
 
 nav a:hover{
-color:gold;
+color:rgb(125, 40, 182);
 }
 
 h1{
@@ -35,4 +35,9 @@ img{
 width:100px;
 height:100px;
 border-radius:10px;
+}
+
+#zdroje {
+text-align: center;
+font-weight: bold;
 }

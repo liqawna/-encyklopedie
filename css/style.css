@@ -1,5 +1,5 @@
 body{
-font-family: Arial, sans-serif;
+font-family: Georgia, 'Times New Roman', Times, serif;
 margin:20px;
 background-color:#685d70;
 }
@@ -22,7 +22,7 @@ color:rgb(125, 40, 182);
 }
 
 h1{
-color:darkblue;
+color:rgb(92, 46, 105);
 }
 
 .content{
